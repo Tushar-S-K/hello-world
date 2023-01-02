@@ -1,6 +1,6 @@
 {
   "name": "hello-world-sample-for-mods-labs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dummy repo for creating test package.",
   "main": "index.js",
   "scripts": {
