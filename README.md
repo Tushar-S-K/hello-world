@@ -1,11 +1,11 @@
-# simple-hello-world-example
-A Simple Hello World Example Package
+# hello-world-example
+A Hello World Example Package
 
 ## Installation
 Install via NPM:
 
 ```bash
-npm install simple-hello-world-example
+npm i hello-world-sample-for-mods-labs
 
 ```
 
@@ -15,7 +15,7 @@ npm install simple-hello-world-example
 
 ```javascript
 
-var myApp = require("simple-hello-world-example");
+var myApp = require("hello-world-sample-for-mods-labs");
 
 myApp.printMsg(); // print and return " Hello World! " 
 
@@ -25,7 +25,7 @@ myApp.printMsg(); // print and return " Hello World! "
 
 ```typescript
 
-import * as myApp from 'simple-hello-world-example';
+import * as myApp from 'hello-world-sample-for-mods-labs';
 
 myApp.printMsg(); // print and return " Hello World! " 
 
