@@ -1,0 +1,36 @@
+{
+  "name": "hello-world-sample-for-mods-labs",
+  "version": "1.0.0",
+  "description": "Dummy repo for creating test package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tushar-S-K/hello-world.git"
+  },
+  "engines": {
+    "node": ">4.0"
+  },
+  "keywords": [
+    "hello-world"
+  ],
+  "author": "Tushar Singh <tusharkushwaha432@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tushar-S-K/hello-world.git/issues"
+  },
+  "homepage": "https://github.com/Tushar-S-K/hello-world/hello-world#readme",
+  "contributors": [
+    {
+      "name": "Tushar Singh",
+      "email": "tushar.singh@arthmate.com",
+      "url": "https://github.com/Tushar-S-K"
+    }
+  ],
+  "devDependencies": {
+    "chai": "4.1.2",
+    "mocha": "5.0.5"
+  }
+}
